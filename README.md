@@ -1,52 +1,48 @@
-# Hi there! 👋
+# Hello, I'm Rashmita Soni 👋
 
-I'm [Your Name](https://github.com/your-username), a [Your Role/Title] passionate about [Your Interests]. Here's a glimpse of my journey so far:
 
-## Internships
+I'm a fourth-year (2020-24) undergraduate at IIT Delhi. I enjoy working on projects related to Data Science and AI.
 
-### Dr. Reddys Lab
-- **Role:** [Your Role]
-- **Duration:** [Duration]
-- **Responsibilities:** [Description of your role and responsibilities]
-- **Achievements:** [Achievements or projects completed during the internship]
+---
 
-### Fz Zulich
-- **Role:** [Your Role]
-- **Duration:** [Duration]
-- **Responsibilities:** [Description of your role and responsibilities]
-- **Achievements:** [Achievements or projects completed during the internship]
+## 🚀 Internships
 
-## Projects
+1. **Dr. Reddy’s Laboratories, Hyderabad:** Technical Intern
+    - **Duration:** May'23 - July'23
+    - **Responsibilities:** I was working with the Modeling and Simulation team for developing Models using ML in Python.
+    - **Achievements:** Received the firm's Pre-Placement Offer (PPO).
 
-### Project 1
-- **Name:** [Project Name]
-- **Description:** [Description of the project]
-- **Technologies:** [Technologies used]
-- **Contributions:** [Your contributions and key learnings]
+2. **Forschungszentrum Jülich, Germany:** Research Intern
+    - **Duration:** April’22 - July’22
+    - **Responsibilities:** I was working on the High-Performance Computers for Lithium-Battery Research using MD Simulations.
+    - **Achievements:** Received a Letter of Recommendation from the professor
 
-### Project 2
-- **Name:** [Project Name]
-- **Description:** [Description of the project]
-- **Technologies:** [Technologies used]
-- **Contributions:** [Your contributions and key learnings]
+---
 
-### Project 3
-- **Name:** [Project Name]
-- **Description:** [Description of the project]
-- **Technologies:** [Technologies used]
-- **Contributions:** [Your contributions and key learnings]
+## 💻 Projects
 
-### Project 4
-- **Name:** [Project Name]
-- **Description:** [Description of the project]
-- **Technologies:** [Technologies used]
-- **Contributions:** [Your contributions and key learnings]
+1. **Name:** [Project Name]
+    - **Description:** [Description of the project]
+    - **Technologies:** [Technologies used]
+    - **Contributions:** [Your contributions and key learnings]
 
-## Extra Curricular
+2. **Name:** [Project Name]
+    - **Description:** [Description of the project]
+    - **Technologies:** [Technologies used]
+    - **Contributions:** [Your contributions and key learnings]
 
-- [List any extracurricular activities, hobbies, or interests that showcase your diverse skills and interests]
+3. **Name:** [Project Name]
+    - **Description:** [Description of the project]
+    - **Technologies:** [Technologies used]
+    - **Contributions:** [Your contributions and key learnings]
 
-Feel free to explore my [repositories](https://github.com/your-username?tab=repositories) to learn more about my work. Let's connect and collaborate!
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/your-linkedin-profile/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-profile)
+## 📫 How to Reach Me
+
+- LinkedIn: https://www.linkedin.com/in/rashmita-soni-7aa43620b/
+- Email: rashmitasoni2023@gmail.com
+
+---
+
+Thank you for visiting my profile! 😊
